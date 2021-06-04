@@ -4,7 +4,7 @@
 
 
 Ce projet est un site sur le thème de Tesla (constructeur de voitures). </br>
-Plusieurs fonctionnalitées de bootstrap sont mises en avant : badge, progress-bar, fil d'ariane, articles et formulaire de contact.
+Plusieurs fonctionnalités de bootstrap sont mises en avant : badge, progress-bar, fil d'ariane, articles et formulaire de contact.
 
 ## Crée avec
 
